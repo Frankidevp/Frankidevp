@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Frankidevp/Frankidevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"><b>Hola! Soy Franki Andrei Medina    </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20y%20Desarrollador%20de%20Software;Backend%20Junior;Estudiante%20de%20Ingenieria%20de%20Sistemas&center=true&width=440&height=45"></a>
+</p>
+
+<h2> Sobre Mí </h2>
+
+- :school: Estudiante de Ingenieria de Sistemas.
+- 👨🏽‍💻 Backend Junior
+- 🌱 Python: lenguaje a aprender. 
+- :sweat_smile: Manejo intermedio de Java :penguin:
+- 📫 Contacto: franmec71@hotmail.com
