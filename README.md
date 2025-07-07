@@ -9,7 +9,22 @@
 <h2> Sobre Mí </h2>
 
 - :school: Estudiante de Ingenieria de Sistemas.
-- 👨🏽‍💻 Backend Junior
-- 🌱 Python: lenguaje a aprender. 
+- 👨🏽‍💻 Backend Junior.
+- 🌱 Lenguaje a aprender: Python.
 - :sweat_smile: Manejo intermedio de Java :penguin:
 - 📫 Contacto: franmec71@hotmail.com
+
+<h2> 💻 Tecnologias y Herramientas</h2>
+<h3>🚀 En aprendizaje continuo </h3>
+<br>
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
+</span>
+&nbsp;
+<br>
