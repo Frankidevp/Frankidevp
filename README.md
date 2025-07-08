@@ -59,6 +59,13 @@ Desarrollador junior y estudiante de Ingeniería de Sistemas, con un enfoque só
   <img alt="Franki Andrei Medina" src="https://img.shields.io/badge/Franki Andrei Medina-25D366?logo=whatsapp&logoColor=white"/>
 </a>
 <h2></h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mo-Frankidevp" alt="Mo-Frankidevp" /> </p>
-<h3 align="center">Gracias por tomarte el tiempo de visualizar mi perfil.</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Mo-Frankidevp&label=Visualizaciones&color=25D366" alt="Mo-Frankidevp" />
+</p>
+
+<p align = "center">
+  <img src="https://img.shields.io/github/followers/Frankidevp?label=Seguidores&style=social" alt="GitHub Badge"/>
+</p>
+
+<h3 align="center">¡Gracias por tomarte el tiempo de visualizar mi perfil.!</h3>
 
