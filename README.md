@@ -6,7 +6,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20y%20Desarrollador%20de%20Software;Backend%20Junior;Estudiante%20de%20Ingenieria%20de%20Sistemas&center=true&width=440&height=45"></a>
 </p>
 
-<h2> Sobre Mí </h2>
+<h2> Conóceme </h2>
+<p>
+  Desarrollador junior, con un enfoque sólido en programación. Apasionado por el aprendizaje constante, la resolución de problemas y la creación de aplicaciones.
+</p>
 
 - :school: Estudiante de Ingenieria de Sistemas.
 - 🏆 Tecnologo en Analisis y desarrollo de Software.
