@@ -50,7 +50,7 @@ Desarrollador junior y estudiante de Ingeniería de Sistemas, con un enfoque só
 &nbsp;
   
 </br>
-<h2>📫¡Hablemos!</h2>
+<h2>📫¡Estoy a un mensaje de distancia! </h2>
 
 
 [![](https://img.shields.io/badge/-franmec71@hotmail.com-red?style=flat-square&logo=Hotmail&logoColor=white)](mailto:franmec71@hotmail.com)&nbsp;
