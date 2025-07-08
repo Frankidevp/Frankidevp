@@ -12,7 +12,7 @@
 - 👑Junior Java Back-end Developer :penguin:
 - 👨🏽‍💻 Spring Boot Junior.
 - 🌱 Interesado en aprender Python.
-- 📫 Contacto: franmec71@hotmail.com
+
 
 <h2> 💻 Tecnologias y Herramientas</h2>
 <h3>🚀 En aprendizaje continuo </h3>
@@ -36,6 +36,9 @@
 <span><img src = "https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" title="spring Boot" height="25" /></span>
 &nbsp;
 <br> 
+<h2>Mis Contactos</h2>
 
-
- 
+<span><a href= "https://www.linkedin.com/in/franki-andrei-medina-back-end/">
+  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></span>
+[![](https://img.shields.io/badge/-franmec71@hotmail.com-red?style=flat-square&logo=Hotmail&logoColor=white)]()&nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/-Franki_andrei_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franki-andrei-medina-back-end/)](https://www.linkedin.com/in/franki-andrei-medina-back-end/)&nbsp;
