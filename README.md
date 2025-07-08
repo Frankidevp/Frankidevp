@@ -54,11 +54,11 @@ Desarrollador junior y estudiante de Ingeniería de Sistemas, con un enfoque só
 
 
 [![](https://img.shields.io/badge/-franmec71@hotmail.com-red?style=flat-square&logo=Hotmail&logoColor=white)](mailto:franmec71@hotmail.com)&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/-Franki_andrei_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franki-andrei-medina-back-end/)](https://www.linkedin.com/in/franki-andrei-medina-back-end/)&nbsp;
-  <a href="https://wa.me/573112479727" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
-  </a>
-
+[![LinkedIn Badge](https://img.shields.io/badge/-Franki_Andrei_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franki-andrei-medina-back-end/)](https://www.linkedin.com/in/Franki-Andrei-medina-back-end/)&nbsp;
+<a href="https://wa.me/573112479727" target="_blank">
+  <img alt="Franki Andrei Medina" src="https://img.shields.io/badge/Franki Andrei Medina-25D366?logo=whatsapp&logoColor=white"/>
+</a>
+<h2></h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mo-Frankidevp" alt="Mo-Frankidevp" /> </p>
 <h3 align="center">Gracias por tomarte el tiempo de visualizar mi perfil.</h3>
 
