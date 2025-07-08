@@ -9,10 +9,11 @@
 <h2> Sobre Mí </h2>
 
 - :school: Estudiante de Ingenieria de Sistemas.
+- 🏆 Tecnologo en Analisis y desarrollo de Software.
 - 👑Junior Java Back-end Developer :penguin:
 - 👨🏽‍💻 Spring Boot Junior.
-- 🌱 Interesado en aprender Python.
-
+- 🌱 Visualizado en aprender Python e IA.
+- 👯 Trabajo en equipo.
 
 <h2> 💻 Tecnologias y Herramientas</h2>
 <h3>🚀 En aprendizaje continuo </h3>
@@ -36,7 +37,7 @@
 <span><img src = "https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" title="spring Boot" height="25" /></span>
 &nbsp;
 <br> 
-<h2>Mis Contactos</h2>
+<h2>Contactame</h2>
 
 
 [![](https://img.shields.io/badge/-franmec71@hotmail.com-red?style=flat-square&logo=Hotmail&logoColor=white)](mailto:franmec71@hotmail.com)&nbsp;
