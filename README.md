@@ -9,9 +9,9 @@
 <h2> Sobre Mí </h2>
 
 - :school: Estudiante de Ingenieria de Sistemas.
-- 👨🏽‍💻 Backend Junior.
-- 🌱 Lenguaje a aprender: Python.
-- :sweat_smile: Manejo intermedio de Java :penguin:
+- 👑Junior Java Back-end Developer :penguin:
+- 👨🏽‍💻 Spring Boot Junior.
+- 🌱 Interesado en aprender Python.
 - 📫 Contacto: franmec71@hotmail.com
 
 <h2> 💻 Tecnologias y Herramientas</h2>
@@ -27,4 +27,15 @@
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
 </span>
 &nbsp;
-<br>
+<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/></span>
+&nbsp;
+<img src = "https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" title="spring Boot" height="25" /></span>
+&nbsp;
+<br> 
+
+
+ 
