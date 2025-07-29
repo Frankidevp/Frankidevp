@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hola!  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">  Soy Franki Andrei Medina</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20y%20Desarrollador%20de%20Software;y;Estudiante%20de%20Ingenieria%20de%20Sistemas&center=true&width=440&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20y%20Desarrollador%20de%20Software;Estudiante%20de%20Ingenieria%20de%20Sistemas&center=true&width=440&height=50"></a>
 </p>
 
 <h2> 🔭 Conóceme </h2>
