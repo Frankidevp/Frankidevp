@@ -6,22 +6,28 @@
 
 <h2 align = "center"> 🔭 Conóceme </h2>
 
-
 <p align = "center">
 Desarrollador junior backend y estudiante de Ingeniería de Sistemas, con un enfoque eficaz en programación y desarrollo de software. Me apasiona la tecnología, el aprendizaje continuo y la creación de soluciones funcionales.
 </p>
-<h2></h2>
 
-- :school: Estudiante de Ingenieria de Sistemas.
-- 🏆 Tecnólogo en Análisis y desarrollo de Software.
-- 👑 Desarrollador Java & SpringBoot Junior :penguin:
-- 🌱 Aprendiz en Python & IA (CLOUD).
-- 👯 Trabajo en equipo.
+<h2></h2>
+  
+   - :school: Estudiante de Ingenieria de Sistemas.
+   - 🏆 Tecnólogo en Análisis y desarrollo de Software.
+   - 👑 Desarrollador Java & SpringBoot Junior :penguin:
+   - 🌱 Aprendiz en Python & IA (CLOUD).
+   - 👯 Trabajo en equipo.
+  
+
+<h2></h2>
 
 <h2 align = "center"> 💻 Tecnologías y Herramientas</h2>
-<h4>🚀 En aprendizaje continuo </h4>
+
+<h4 align = "center"><img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> En aprendizaje continuo></h4>
+
 <h2></h2>
-<br>
+
+<div align = "center">
  <span>
     <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />
  </span>
@@ -54,25 +60,34 @@ Desarrollador junior backend y estudiante de Ingeniería de Sistemas, con un enf
     <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" />
  </span>
  &nbsp;
-</br>
-<h2>📫¡Estoy a un mensaje de distancia! </h2>
+</div>
 
+<h2></h2>
+
+<h2 align = "center">📫¡Estoy a un mensaje de distancia! </h2>
+
+<div align="center">
+  
 [![](https://img.shields.io/badge/-franmec71@hotmail.com-red?style=flat-square&logo=Hotmail&logoColor=white)](mailto:franmec71@hotmail.com)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-Franki_Andrei_Medina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franki-andrei-medina-back-end/)](https://www.linkedin.com/in/Franki-Andrei-medina-back-end/)&nbsp;
+</div>
 
 <p align = "center"> 
   <img src="https://komarev.com/ghpvc/?username=Mo-Frankidevp&label=Visualizaciones&color=25D366" alt="Mo-Frankidevp" />
 </p>
+
 <p align = "center">
   <img src="https://img.shields.io/github/followers/Frankidevp?label=Seguidores&style=social" alt="GitHub Badge"/>
-  <h2></h2>
- <h2 align = "center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture>Mis estadisticas</h2>
   
+ <h2></h2>
+  
+<h2 align = "center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture>Mis estadisticas</h2>
+ 
  <div align ="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Frankidevp&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Frankidevp |Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Frankidevp&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Frankidevp |Estadisticas" />
 </p>
 
-<h2 align = "center">¡Gracias por tomarte el tiempo de visualizar mi perfil!.</h2>
+<h2 align = "center">¡ Aprecio su visita a mi perfil !🦉 </h2>
 
 <br />
  :construction: Perfil en Construcción... Vamos a tomar un café? :construction:
