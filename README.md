@@ -67,7 +67,14 @@ Desarrollador junior backend y estudiante de Ingeniería de Sistemas, con un enf
 
 <p align = "center">
   <img src="https://img.shields.io/github/followers/Frankidevp?label=Seguidores&style=social" alt="GitHub Badge"/>
+<h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture>Mis estadisticas</h2>
+  
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=deepshikhayadav&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
 </p>
 
 <h2 align="center">¡Gracias por tomarte el tiempo de visualizar mi perfil!.</h2>
+<br />
+:construction: Perfil en actualización... Vamos a tomar un café? :construction:
+<br />
 
