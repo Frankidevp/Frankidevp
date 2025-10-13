@@ -4,17 +4,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20y%20Desarrollador%20de%20Software;Estudiante%20de%20Ingenieria%20de%20Sistemas&center=true&width=440&height=50"></a>
 </p>
 
-<h2 align = "center"> 🔭 Conóceme </h2>
+<h2 align = "center"> 🔭 Descubre mi Stack</h2>
 
 <p align = "center">
-Desarrollador junior backend y estudiante de Ingeniería de Sistemas, con un enfoque eficaz en programación y desarrollo de software. Me apasiona la tecnología, el aprendizaje continuo y la creación de soluciones funcionales.
+Analista y Desarrollador con enfasis en  backend, estudiante de Ingeniería de Sistemas, con un enfoque eficaz en programación y desarrollo de software. Me apasiona la tecnología, el aprendizaje continuo y la creación de soluciones funcionales.
 </p>
 
 <h2></h2>
   
    - :school: Estudiante de Ingenieria de Sistemas.
    - 🏆 Tecnólogo en Análisis y desarrollo de Software.
-   - 👑 Desarrollador Java & SpringBoot Junior :penguin:
+   - 👑 Desarrollador Java & SpringBoot :penguin:
    - 🌱 Aprendiz en Python & IA (CLOUD).
    - 👯 Trabajo en equipo.
   
@@ -90,6 +90,6 @@ Desarrollador junior backend y estudiante de Ingeniería de Sistemas, con un enf
 <h2 align = "center">¡ Aprecio su visita a mi perfil !🦉 </h2>
 
 <br />
- :construction: Perfil en Construcción... Vamos a tomar un café? :construction:
+ :construction: Perfil en Construcción... Mientas te invito a tomar un café? :construction:
 <br />
 
