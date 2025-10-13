@@ -1,22 +1,22 @@
 <h1 align="center"><b>Hola!  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">  Soy Franki Andrei Medina</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20y%20Desarrollador%20de%20Software;Estudiante%20de%20Ingenieria%20de%20Sistemas&center=true&width=440&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20de%20Sistemas%20en%20formación;Analista%20y%20Desarrollador%20de%20Software&center=true&width=440&height=50"></a>
 </p>
 
 <h2 align = "center"> 🔭 Descubre mi Stack</h2>
 
 <p align = "center">
-Analista y Desarrollador con enfasis en  backend, estudiante de Ingeniería de Sistemas, con un enfoque eficaz en programación y desarrollo de software. Me apasiona la tecnología, el aprendizaje continuo y la creación de soluciones funcionales.
+Ingeniero de Sistemas en formación con experiencia en Analisis y Desarrollo de Software, asi como conocimientos en Soporte Técnico. Me apasiona la optimización de procesos, el aprendizaje de nuevas herramientas y contribuir a proyectos desafiantes.
 </p>
 
 <h2></h2>
   
-   - :school: Estudiante de Ingenieria de Sistemas.
+   - :school: Ingeniero de Sistemas en formación.
    - 🏆 Tecnólogo en Análisis y desarrollo de Software.
    - 👑 Desarrollador Java & SpringBoot :penguin:
-   - 🌱 Aprendiz en Python & IA (CLOUD).
-   - 👯 Trabajo en equipo.
+   - 🌱 Enfoque en aprender Python & IA (CLOUD).
+   - 👯 Capacidad de integración a equipos multidisciplinarios.
   
 
 <h2></h2>
@@ -90,6 +90,6 @@ Analista y Desarrollador con enfasis en  backend, estudiante de Ingeniería de S
 <h2 align = "center">¡ Aprecio su visita a mi perfil !🦉 </h2>
 
 <br />
- :construction: Perfil en Construcción... Mientas te invito a tomar un café? :construction:
+ :construction: Mi perfil esta en constante evolución. Echa un vistazo a mis proyectos y comparteme tu feedback. :construction:
 <br />
 
