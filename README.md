@@ -1,29 +1,46 @@
 <h1 align="center"><b>Hola!  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">  Soy Franki Andrei Medina</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20de%20Sistemas%20en%20formación;Analista%20y%20Desarrollador%20de%20Software&center=true&width=440&height=50"></a>
-</p>
-
-<h2 align = "center"> 🔭 Descubre mi Stack</h2>
-
-<p align = "center">
-Ingeniero de Sistemas en formación con experiencia en Analisis y Desarrollo de Software, asi como conocimientos en Soporte Técnico. Me apasiona la optimización de procesos, el aprendizaje de nuevas herramientas y contribuir a proyectos desafiantes.
+<h2 align="center"><b> Desarrollador Backend </h2>
+  
+ 
+  <p align = "center">
+👨‍💻 
+Soy Analista y Desarrollador Backend  enfocado en Java y Spring Boot.
+Actualmente me encuentro en formación en Ingeniería de Sistemas 
+y desarrollando proyectos prácticos para fortalecer mis habilidades en desarrollo backend.
 </p>
 
 <h2></h2>
+<h2 align = "center"><b>🔭 Enfoque Tecnológico 👇 </h2>
+
+ 
+<h4>
   
-   - :school: Ingeniero de Sistemas en formación.
+   - 💡 Ingeniero de Sistemas en formación.
    - 🏆 Tecnólogo en Análisis y desarrollo de Software.
    - 👑 Desarrollador Java & SpringBoot :penguin:
    - 🌱 Enfoque en aprender Python & IA (CLOUD).
+   - 🛠️ Soporte Técnico e Infraestructura IT.
    - 👯 Capacidad de integración a equipos multidisciplinarios.
+     
+</h4>
   
+
 
 <h2></h2>
 
-<h2 align = "center"> 💻 Tecnologías y Herramientas</h2>
+<h2 align = "center"> Mis Herramientas 👇</h2>
 
-<h4 align = "center"><img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> En aprendizaje continuo></h4>
+- 📌 Java
+- 📌 Spring Boot
+- 📌 PostgreSQL
+- 📌 SQL
+- 📌 Git & GitHub
+- 📌 Postman
+- 📌 GLPI
+
+<h2></h2>
+
+<h4 align = "center"><img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> En aprendizaje continuo 💡</h4>
 
 <h2></h2>
 
@@ -60,6 +77,11 @@ Ingeniero de Sistemas en formación con experiencia en Analisis y Desarrollo de 
     <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" />
  </span>
  &nbsp;
+  <span>
+    <img src ="https://img.shields.io/badge/GLPI-3399CC?style=for-the-badge&logo=itemvit&logoColor=white")/>
+  &nbsp;
+  </span> 
+  
 </div>
 
 <h2></h2>
